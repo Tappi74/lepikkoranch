@@ -1,0 +1,13 @@
+# Robots.txt for LepikköRanch
+# Allows all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lepikkoranch.fi/sitemap.xml
+
+# Disallow crawling of potential future admin or private areas
+# (Currently not used, but good practice)
+Disallow: /admin/
+Disallow: /private/

@@ -1,0 +1,19 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Image optimization temp files
+*.tmp
+.cache/
+
+# Backup files
+*.bak
+*.backup
